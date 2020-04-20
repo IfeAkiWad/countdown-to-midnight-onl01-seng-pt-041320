@@ -1,4 +1,4 @@
-def loop_countdown(number)
+def countdown(number)
   number > 0
   while number > 0
     puts "#{number} SECOND(S)!"
